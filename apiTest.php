@@ -1,10 +1,8 @@
 <?php
 /**
  * Plugin name: Query APIs
- * Plugin URI: https://omukiguy.com
  * Description: Exchange information with external APIs in WordPress
- * Author: Laurence Bahiirwa
- * Author URI: https://omukiguy.com
+ * Author: George S Mulbah II
  * text-domain: query-apis
  */
 
